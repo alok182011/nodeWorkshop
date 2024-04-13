@@ -1,0 +1,19 @@
+{
+  "name": "nodeworkshop",
+  "version": "1.0.0",
+  "description": "repo containig resources for node workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok182011/nodeWorkshop.git"
+  },
+  "author": "alok182011",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alok182011/nodeWorkshop/issues"
+  },
+  "homepage": "https://github.com/alok182011/nodeWorkshop#readme"
+}
